@@ -1,0 +1,1 @@
+say Permanent Ghastlings is loaded.

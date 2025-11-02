@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Ghastlings cannot age if they are named 'Ghastling', 'Baby Ghast', 'Happy Ghast', 'Baby Happy Ghast', or 'Ghast'. By JubiHugo",
+    "pack_format": 88,
+    "supported_formats": { "min_inclusive": 80, "max_inclusive": 88 },
+    "min_format": [80, 0],
+    "max_format": [88, 0]
+  }
+}
